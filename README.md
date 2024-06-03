@@ -19,9 +19,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Ejemplo de proyecto</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://th.bing.com/th/id/OIP.-38xCZB5KadKTt5g4oz3CgHaE8?rs=1&pid=ImgDetMain" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Aquí irá una descripción del proyecto</p>
 </div>
                                                                                       
 </td>
@@ -53,7 +53,7 @@
 				</a>
 		My curriculum:
 		<a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+					<img src="" ></a>
       </div>
 
 </p>
