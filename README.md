@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm a person who is passionate about computing, data and programming</h3>
 
-- 🔭 I’m currently working on **Chess in c++**
+- 🔭 I’m currently working on **Car Racing in C++**
 
 - 🌱 I’m currently learning **MySQL**
 
