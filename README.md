@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center">Ejemplo de proyecto</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://th.bing.com/th/id/OIP.-38xCZB5KadKTt5g4oz3CgHaE8?rs=1&pid=ImgDetMain" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="Car_racing_mini.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
