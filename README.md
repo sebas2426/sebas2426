@@ -1,7 +1,7 @@
 <img src="Banner.gif">
 <h1 align="center">Hi, im Tobías Palma 👋</h1>
 
-<h3 align="center">I'm a person who is passionate about computing, data and programming</h3>
+<h3 align="center">I'm a person who is passionate about computing, data and programming, in the process of becoming a data analyst and programmer.</h3>
 
 - 🔭 I’m currently working on **Car Racing in C++**
 
@@ -19,14 +19,14 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Ejemplo de proyecto</h3>
+<h3 align="center">Car Racing in C++ (in progress)</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="Car_racing_mini.png" width="400" alt="Curso básico android"></a>
+<a href="" target="_blank"><img src="Car_racing_mini.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<a href="" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
