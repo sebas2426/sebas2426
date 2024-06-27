@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center">Car Racing in C++ (in progress)</h3>
 <div align="center">
-<a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Curso básico android"></a>
+<a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Car Racing in C++"></a>
 <p>
 <a href="target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
