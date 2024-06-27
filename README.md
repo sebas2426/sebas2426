@@ -23,7 +23,7 @@
 <div align="center">
 <a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Car Racing in C++"></a>
 <p>
-<a href="target="_blank">
+<a href="target=repo:sebas2426/Car-Racing- "_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
