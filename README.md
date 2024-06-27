@@ -12,7 +12,7 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,py,postgres,visualstudio,linux,git,cpp,c,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,py,postgres,visualstudio,linux,git,cpp,c,html,css,javascript)](https://skillicons.dev)
 
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Some Proyects</h3>
@@ -26,11 +26,24 @@
 <a href="target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
+
 </p>
-<p>Aquí irá una descripción del proyecto</p>
+<p>Project Description</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">University System in VisualStudio and PostgreSQL (in progress)</h3>
+<div align="center">
+<a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+</p>
+<p>Project Description</p>
 </div>
                                                                                       
 </td>
