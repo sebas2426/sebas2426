@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,postgres,visualstudio,linux,git,cpp,c,html,css,javascript)](https://skillicons.dev)
 
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Some Proyects</h3>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My Proyects</h3>
 <table>
 <tr>
 <td width="50%">
@@ -24,46 +24,32 @@
 <a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Car Racing in C++"></a>
 <p>
 <a href="target=repo:sebas2426/Car-Racing- "_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
-<p>Project Description</p>
+<p>This project is a simulation of a car racing. <br>
+	With C++ and SFML.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
-<h3 align="center">University System in VisualStudio and PostgreSQL (in progress)</h3>
+<h3 align="center">Employee management system (in progress)</h3>
 <div align="center">
-<a target="_blank"><img src="VisualBasic.png" width="400" alt="Curso básico android"></a>
+<a target="_blank"><img src="Personal_management.png" width="400" alt="Employee management system"></a>
 <p>
 <a href="target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 </p>
-<p>Project Description</p>
+<p>This Project is a example of a DataBase for Employees in a company. <br>
+	With MySQL</p>
 </div>
                                                                                       
 </td>
 </table>
-<td width="50%">
-<h3 align="center">University System in VisualStudio and PostgreSQL (in progress)</h3>
-<div align="center">
-<a target="_blank"><img src="VisualBasic.png" width="400" alt="Curso básico android"></a>
-<p>
-<a href="target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-</p>
-<p>Project Description</p>
-</div>
-                                                                                      
-</td>
-</table>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebas2426&show_icons=true&locale=en&layout=compact" alt="sebas2426" /></p>
 
 <h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me</h3>
