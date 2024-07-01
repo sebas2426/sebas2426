@@ -39,8 +39,8 @@
 <div align="center">
 <a target="_blank"><img src="Personal_management.png" width="400" alt="Employee management system"></a>
 <p>
-<a href="target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/sebas2426/MySQL_employee_management_system-" target="_blank">
+    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repositorio de GitHub">
 </a>
 
 </p>
