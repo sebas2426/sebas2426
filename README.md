@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,py,postgres,visualstudio,linux,git,cpp,c,html,css,javascript)](https://skillicons.dev)
 
 
-<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My Proyects</h3>
+<h3> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My Projects</h3>
 <table>
 <tr>
 <td width="50%">
