@@ -3,9 +3,9 @@
 
 <h3 align="center">I'm a person who is passionate about computing, data and programming, in the process of becoming a data analyst and programmer.</h3>
 
-- 🔭 I’m currently working on **Car Racing in C++**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **tobiaspalma505@gmail.com**
 
