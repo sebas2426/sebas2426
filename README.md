@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Car Racing in C++ (in progress)</h3>
+<h3 align="center">Car Racing in C++</h3>
 <div align="center">
 <a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Car Racing in C++"></a>
 <p>
