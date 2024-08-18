@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Home Page with HTML & CSSa</h3>
+<h3 align="center">Home Page with HTML & CSS</h3>
 <div align="center">
 <a target="_blank"><img src="./images/Landing_Page.png" width="400" alt="Home Page with HTML & CSS"></a>
 <p>
@@ -29,10 +29,8 @@
 
 </p>
 <p>This project is a Home Page of a web site.</p>
-</div>
-                                                                                      
+</div>                                                                                 
 </td>
-
 <td width="50%">
 <h3 align="center">Car Racing in C++</h3>
 <div align="center">
@@ -41,14 +39,14 @@
 <a href="https://github.com/sebas2426/Car-Racing-" target="_blank">
     <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repositorio de GitHub">
 </a>
-
 </p>
-<p>This project is a simulation of a car racing. <br>
-	With C++ and SFML.</p>
-</div>
-                                                                                      
+<p>This project is a simulation of a car racing.</p>
+</div>                                                                                  
 </td>
+</table>
 
+<table>
+<tr>
 <td width="50%">
 <h3 align="center">Employee management system (in progress)</h3>
 <div align="center">
@@ -59,11 +57,10 @@
 </a>
 
 </p>
-<p>This Project is a example of a DataBase for Employees in a company. <br>
-	With MySQL</p>
-</div>
-                                                                                      
+<p>This Project is a example of a DataBase for Employees in a company.</p>
+</div>                                                                                 
 </td>
+</tr>
 </table>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebas2426&show_icons=true&locale=en&layout=compact" alt="sebas2426" /></p>
 
