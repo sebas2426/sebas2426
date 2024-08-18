@@ -19,6 +19,21 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Home Page with HTML & CSSa</h3>
+<div align="center">
+<a target="_blank"><img src="Home-Page.png" width="400" alt="Home Page with HTML & CSS"></a>
+<p>
+<a href="https://github.com/sebas2426/Landing_Page" target="_blank">
+    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub repository">
+</a>
+
+</p>
+<p>This project is a Home Page of a web site.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
 <h3 align="center">Car Racing in C++</h3>
 <div align="center">
 <a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Car Racing in C++"></a>
