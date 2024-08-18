@@ -21,7 +21,7 @@
 <td width="50%">
 <h3 align="center">Home Page with HTML & CSSa</h3>
 <div align="center">
-<a target="_blank"><img src="Home-Page.png" width="400" alt="Home Page with HTML & CSS"></a>
+<a target="_blank"><img src="./images/Landing_Page.png" width="400" alt="Home Page with HTML & CSS"></a>
 <p>
 <a href="https://github.com/sebas2426/Landing_Page" target="_blank">
     <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="GitHub repository">
@@ -36,7 +36,7 @@
 <td width="50%">
 <h3 align="center">Car Racing in C++</h3>
 <div align="center">
-<a target="_blank"><img src="Car_racing_mini.png" width="400" alt="Car Racing in C++"></a>
+<a target="_blank"><img src="./images/Car_racing_mini.png" width="400" alt="Car Racing in C++"></a>
 <p>
 <a href="https://github.com/sebas2426/Car-Racing-" target="_blank">
     <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repositorio de GitHub">
@@ -52,7 +52,7 @@
 <td width="50%">
 <h3 align="center">Employee management system (in progress)</h3>
 <div align="center">
-<a target="_blank"><img src="Personal_management.png" width="400" alt="Employee management system"></a>
+<a target="_blank"><img src="./images/Personal_management.png" width="400" alt="Employee management system"></a>
 <p>
 <a href="https://github.com/sebas2426/MySQL_employee_management_system-" target="_blank">
     <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repositorio de GitHub">
