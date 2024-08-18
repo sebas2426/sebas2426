@@ -45,7 +45,7 @@
 </td>
 </table>
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 <h3 align="center">Employee management system (in progress)</h3>
