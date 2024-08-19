@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Home Page with HTML & CSS</h3>
+<h3 align="center">Home Page with HTML & CSS (in progress)</h3>
 <div align="center">
 <a target="_blank"><img src="./images/Landing_Page.png" width="400" alt="Home Page with HTML & CSS"></a>
 <p>
@@ -53,7 +53,7 @@
 <a target="_blank"><img src="./images/Personal_management.png" width="400" alt="Employee management system"></a>
 <p>
 <a href="https://github.com/sebas2426/MySQL_employee_management_system-" target="_blank">
-    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repositorio de GitHub">
+    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Repository of the Project">
 </a>
 
 </p>
