@@ -1,4 +1,4 @@
-<img src="Banner.gif">
+<img src="./images/Banner.gif">
 <h1 align="center">Hi, im Tobías Palma 👋</h1>
 
 <h3 align="center">I'm a person who is passionate about computing, data and programming, in the process of becoming a data analyst and programmer.</h3>
